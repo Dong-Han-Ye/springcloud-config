@@ -1,2 +1,2 @@
-config: "nono"
-info: "this is a test file for spring cloud"
+config:
+  info: "this is a test file for spring cloud"
